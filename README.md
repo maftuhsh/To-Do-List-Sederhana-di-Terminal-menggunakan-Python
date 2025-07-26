@@ -22,3 +22,4 @@ Cara penggunaan :
 
    <img width="447" height="182" alt="{ED23E947-3A86-4E54-85F6-C9D4360E96B9}" src="https://github.com/user-attachments/assets/81468432-768f-4d32-81ef-bca0c9be32f4" />
 
+Note : jika kamu ingin mencobanya, kamu hanya mendownload main.py nya saja karena nanti file.txt nya akan muncul sendiri ketika kamu mengisi datanya
